@@ -12,8 +12,8 @@ BORDER_LIMIT = pygame.Rect(WIDTH//2-5, 0, 5, HEIGHT)
 LEFT_OBSTACLES_LIMIT, RIGHT_OBSTACLES_LIMIT = HEIGHT/2 + 25, WIDTH/2 + 75
 FPS = 60
 
-HEALTH_FONT = pygame.font.SysFont('Corbel',40)
-WINNER_FONT = pygame.font.SysFont('Corbel',100)
+HEALTH_FONT = pygame.font.SysFont('Corbel',40, bold=True)
+WINNER_FONT = pygame.font.SysFont('Corbel',100, bold=True)
 
 VEL = 4
 OBSTACLES_VEL = 2
