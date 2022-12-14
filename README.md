@@ -4,7 +4,9 @@ while the cacti does it move.
 
 <img src="https://github.com/xhapa/CowBoys-game/blob/master/img/game.png" width="500" height="400" />
 <img src="https://github.com/xhapa/CowBoys-game/blob/master/img/win.png" width="500" height="400" />
+
 ## How to play?
+
 Red Player
 * Move Left (A)
 
